@@ -4,9 +4,8 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lmaasz&show_icons=true&theme=solarized-light&hide_border=true&hide_title=true" alt="mystreak" alt="lmaasz :: Streak Stats" />
 </p>
 
-
 <h4 align="center">Tech Stack</h4>
-<p align="center">
+<p align="center" style="border:1px solid white;">
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>   
  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="git" width="40" height="40"/> </a>  
